@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubakr-boukdidi-1b537a267/)
 
 ### 💼 My experience:
-- Worked on projects using C and Python and .
+- Worked on projects using C and Python and Java Script.
 
 Feel free to explore my repositories, and let's connect! 🚀
 
