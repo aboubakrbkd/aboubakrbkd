@@ -38,6 +38,8 @@ Feel free to explore my repositories, and let's connect! 🚀
 
 ---
 
+[![<aboukdid>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aboubakrbkd&theme=dark&background=000000)](https://git.io/streak-stats)
 
