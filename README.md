@@ -6,7 +6,6 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/aboubakr-boukdidi-1b537a267/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </a>
   </div>
 </div>
@@ -42,5 +41,5 @@ Feel free to explore my repositories, and let's connect! 🚀
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aboubakrbkd&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboubakrbkd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
